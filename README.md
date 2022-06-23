@@ -1,3 +1,3 @@
 # Desafio Docker Go Code Education
 
-Imagem no docker hub: marcelocorrea/codeeducation
+Imagem no docker hub: cidstein/codeeducation
